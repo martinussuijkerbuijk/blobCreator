@@ -1,0 +1,7 @@
+{
+    "/blender":{  
+        "data_path":"bpy.data.objects['Cube']",
+        "id":"toggle",
+        "osc_type":"f",
+        "osc_index":"(0)"
+}
